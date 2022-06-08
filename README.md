@@ -12,4 +12,4 @@ Be sure to extract the _Github_ file to the same directory as the _semantic_sear
 
 Sample image of the result it returns
 
-<img src="Screenshot (285).png" width="600" height="400">
+<img src="Screenshot (218).png" width="800" height="400">
